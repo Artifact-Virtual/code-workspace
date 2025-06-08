@@ -1,0 +1,6892 @@
+{
+  "generated_at": "2025-06-08T08:43:15.231505",
+  "root_path": "W:\\artifactvirtual",
+  "total_files": 3696,
+  "total_directories": 961,
+  "file_types": {
+    "": 90,
+    ".txt": 54,
+    ".py": 1040,
+    ".md": 334,
+    ".yml": 39,
+    ".json": 150,
+    ".html": 65,
+    ".sh": 30,
+    ".png": 27,
+    ".js": 96,
+    ".ipynb": 23,
+    ".ps1": 10,
+    ".toml": 16,
+    ".yaml": 33,
+    ".in": 3,
+    ".cfg": 2,
+    ".lock": 7,
+    ".example": 3,
+    ".db": 2,
+    ".typed": 1,
+    ".exe": 3,
+    ".css": 16,
+    ".ffpreset": 5,
+    ".ts": 365,
+    ".bat": 5,
+    ".conf": 8,
+    ".rst": 8,
+    ".log": 3,
+    ".backup": 1,
+    ".sol": 20,
+    ".prototype": 2,
+    ".test": 1,
+    ".scss": 19,
+    ".mjs": 4,
+    ".tsx": 735,
+    ".svg": 215,
+    ".jpg": 4,
+    ".rs": 24,
+    ".dockerfile": 4,
+    ".go": 2,
+    ".pdf": 33,
+    ".env": 1,
+    ".ico": 1,
+    ".light": 12,
+    ".rdb": 2,
+    ".pem": 6,
+    ".c": 4,
+    ".h": 1,
+    ".sql": 2,
+    ".pt": 1,
+    ".sqlite": 1,
+    ".deps": 1,
+    ".oc9": 1,
+    ".template": 1,
+    ".mdx": 24,
+    ".tpl": 1,
+    ".docx": 1,
+    ".ppt": 1,
+    ".xlsx": 1,
+    ".less": 93,
+    ".woff2": 38,
+    ".jsx": 1
+  },
+  "directories": {
+    ".": {
+      "file_count": 15,
+      "python_files": 3,
+      "config_files": 4,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\assets": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\docs": {
+      "file_count": 6,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\pipelines": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 3,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\samples": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\samples\\curl": {
+      "file_count": 6,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\samples\\js": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\samples\\js\\azure_ai_inference": {
+      "file_count": 8,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\samples\\js\\mistralai": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\samples\\js\\openai": {
+      "file_count": 8,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\samples\\python": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\samples\\python\\azure_ai_evaluation": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\samples\\python\\azure_ai_inference": {
+      "file_count": 9,
+      "python_files": 6,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\samples\\python\\mistralai": {
+      "file_count": 6,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\samples\\python\\openai": {
+      "file_count": 10,
+      "python_files": 6,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\samples\\templates": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\samples\\templates\\chats": {
+      "file_count": 3,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\samples\\templates\\chats\\models": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils": {
+      "file_count": 10,
+      "python_files": 5,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\utils\\ascii-visualizer-cli": {
+      "file_count": 5,
+      "python_files": 2,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\utils\\ascii-visualizer-cli\\src": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\ascii-visualizer-cli\\src\\cli": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\ascii-visualizer-cli\\src\\cli\\commands": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\ascii-visualizer-cli\\src\\core": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\ascii-visualizer-cli\\src\\utils": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\ascii-visualizer-cli\\tests": {
+      "file_count": 4,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round": {
+      "file_count": 11,
+      "python_files": 1,
+      "config_files": 2,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\utils\\auto-round\\auto_round": {
+      "file_count": 11,
+      "python_files": 11,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\auto_round\\data_type": {
+      "file_count": 7,
+      "python_files": 7,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\auto_round\\eval": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\auto_round\\export": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\auto_round\\export\\export_to_autogptq": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\auto_round\\export\\export_to_autoround": {
+      "file_count": 4,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\auto_round\\export\\export_to_awq": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\auto_round\\export\\export_to_gguf": {
+      "file_count": 5,
+      "python_files": 5,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\auto_round\\export\\export_to_itrex": {
+      "file_count": 5,
+      "python_files": 5,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\auto_round\\inference": {
+      "file_count": 4,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\auto_round\\low_cpu_mem": {
+      "file_count": 8,
+      "python_files": 8,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\auto_round\\mllm": {
+      "file_count": 8,
+      "python_files": 7,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": true
+    },
+    "administration\\utils\\auto-round\\auto_round\\mllm\\templates": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 4,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\auto_round\\script": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\auto_round.egg-info": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\auto_round_extension": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\auto_round_extension\\cuda": {
+      "file_count": 4,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\auto_round_extension\\cuda\\triton_utils": {
+      "file_count": 5,
+      "python_files": 5,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\auto_round_extension\\cuda\\triton_utils_zp": {
+      "file_count": 5,
+      "python_files": 5,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\auto_round_extension\\hpu": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\auto_round_extension\\ipex": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\auto_round_extension\\qbits": {
+      "file_count": 4,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\docs": {
+      "file_count": 38,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\docs\\guides": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\docs\\imgs": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\examples": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\test": {
+      "file_count": 23,
+      "python_files": 23,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\test_cuda": {
+      "file_count": 18,
+      "python_files": 18,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\auto-round\\test_xpu": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\command-parsing-tool": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\utils\\command-parsing-tool\\config": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\command-parsing-tool\\src": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\command-parsing-tool\\src\\cli": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\command-parsing-tool\\src\\core": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\command-parsing-tool\\src\\exceptions": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\command-parsing-tool\\src\\integrations": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\command-parsing-tool\\src\\utils": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\command-parsing-tool\\tests": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\configsystem": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\configsystem\\src": {
+      "file_count": 4,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\CUDA": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\debugdiag": {
+      "file_count": 4,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\utils\\dspy": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\error_handler": {
+      "file_count": 5,
+      "python_files": 1,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\hybridb": {
+      "file_count": 6,
+      "python_files": 5,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": true
+    },
+    "administration\\utils\\hybridb\\docs": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\hybridb\\tests": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\utils\\modelcontextprotocol\\docs": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\examples": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\utils\\modelcontextprotocol\\examples\\clients": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\examples\\clients\\simple-chatbot": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\utils\\modelcontextprotocol\\examples\\clients\\simple-chatbot\\mcp_simple_chatbot": {
+      "file_count": 4,
+      "python_files": 1,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\examples\\fastmcp": {
+      "file_count": 10,
+      "python_files": 10,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\utils\\modelcontextprotocol\\examples\\servers": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\examples\\servers\\simple-prompt": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\utils\\modelcontextprotocol\\examples\\servers\\simple-prompt\\mcp_simple_prompt": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\examples\\servers\\simple-resource": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\utils\\modelcontextprotocol\\examples\\servers\\simple-resource\\mcp_simple_resource": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\examples\\servers\\simple-tool": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\utils\\modelcontextprotocol\\examples\\servers\\simple-tool\\mcp_simple_tool": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\server": {
+      "file_count": 3,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\utils\\modelcontextprotocol\\src": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\src\\mcp": {
+      "file_count": 3,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\src\\mcp\\cli": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\src\\mcp\\client": {
+      "file_count": 5,
+      "python_files": 5,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\src\\mcp\\client\\stdio": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\src\\mcp\\server": {
+      "file_count": 7,
+      "python_files": 7,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\src\\mcp\\server\\fastmcp": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\src\\mcp\\server\\fastmcp\\prompts": {
+      "file_count": 4,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\src\\mcp\\server\\fastmcp\\resources": {
+      "file_count": 5,
+      "python_files": 5,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\src\\mcp\\server\\fastmcp\\tools": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\src\\mcp\\server\\fastmcp\\utilities": {
+      "file_count": 4,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\src\\mcp\\server\\lowlevel": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\src\\mcp\\shared": {
+      "file_count": 7,
+      "python_files": 7,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\tests": {
+      "file_count": 4,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\tests\\client": {
+      "file_count": 7,
+      "python_files": 7,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\tests\\issues": {
+      "file_count": 10,
+      "python_files": 10,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\tests\\server": {
+      "file_count": 6,
+      "python_files": 6,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\tests\\server\\fastmcp": {
+      "file_count": 5,
+      "python_files": 5,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\tests\\server\\fastmcp\\prompts": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\tests\\server\\fastmcp\\resources": {
+      "file_count": 6,
+      "python_files": 6,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\tests\\server\\fastmcp\\servers": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\tests\\shared": {
+      "file_count": 4,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\tools": {
+      "file_count": 4,
+      "python_files": 2,
+      "config_files": 2,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\vibe": {
+      "file_count": 14,
+      "python_files": 0,
+      "config_files": 4,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\utils\\modelcontextprotocol\\vibe\\ffmpeg": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\utils\\modelcontextprotocol\\vibe\\ffmpeg\\bin": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\vibe\\ffmpeg\\doc": {
+      "file_count": 34,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\vibe\\ffmpeg\\presets": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\modelcontextprotocol\\vibe\\src": {
+      "file_count": 7,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\scalar_incrementation": {
+      "file_count": 2,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\utils\\simplifiedcontextprotocol": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\utils\\simplifiedcontextprotocol\\external": {
+      "file_count": 2,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\utils\\simplifiedcontextprotocol\\internal": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "administration\\vector-helm": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 3,
+      "has_init": false,
+      "has_readme": true
+    },
+    "administration\\vector-helm\\templates": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 5,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\crewOS": {
+      "file_count": 12,
+      "python_files": 0,
+      "config_files": 2,
+      "has_init": false,
+      "has_readme": true
+    },
+    "agents\\crewOS\\data": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\crewOS\\knowledge": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\crewOS\\logs": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "agents\\crewOS\\src": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\crewOS\\src\\engineering": {
+      "file_count": 9,
+      "python_files": 9,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "agents\\crewOS\\src\\engineering\\config": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 2,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\crewOS\\src\\engineering\\tools": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "agents\\crewOS\\src\\engineering\\ui": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\crewOS\\templates": {
+      "file_count": 3,
+      "python_files": 1,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\crewOS\\tests": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\discord_community_bot": {
+      "file_count": 5,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern": {
+      "file_count": 10,
+      "python_files": 1,
+      "config_files": 2,
+      "has_init": false,
+      "has_readme": true
+    },
+    "agents\\lm-intern\\docs": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\docs\\en": {
+      "file_count": 8,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\docs\\en\\get_started": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\docs\\en\\tutorials": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\docs\\en\\_static": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\docs\\en\\_static\\css": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\docs\\en\\_static\\images": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\docs\\en\\_static\\js": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\docs\\en\\_templates": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\docs\\en\\_templates\\autoapi": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\docs\\en\\_templates\\autoapi\\python": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\docs\\imgs": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\docs\\zh_cn": {
+      "file_count": 8,
+      "python_files": 1,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\docs\\zh_cn\\get_started": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\docs\\zh_cn\\tutorials": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\docs\\zh_cn\\_static": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\docs\\zh_cn\\_static\\css": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\docs\\zh_cn\\_static\\images": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\docs\\zh_cn\\_static\\js": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\docs\\zh_cn\\_templates": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\docs\\zh_cn\\_templates\\autoapi": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\docs\\zh_cn\\_templates\\autoapi\\python": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\examples": {
+      "file_count": 8,
+      "python_files": 8,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\lagent": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\lagent\\actions": {
+      "file_count": 15,
+      "python_files": 15,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\lagent\\agents": {
+      "file_count": 4,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\lagent\\agents\\aggregator": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\lagent\\distributed": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\lagent\\distributed\\http_serve": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\lagent\\distributed\\ray_serve": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\lagent\\hooks": {
+      "file_count": 4,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\lagent\\llms": {
+      "file_count": 10,
+      "python_files": 10,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\lagent\\memory": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\lagent\\prompts": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\lagent\\prompts\\parsers": {
+      "file_count": 5,
+      "python_files": 5,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\lagent\\utils": {
+      "file_count": 4,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\requirements": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\tests": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\tests\\data": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\tests\\test_actions": {
+      "file_count": 4,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\lm-intern\\tests\\test_agents": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\maos2": {
+      "file_count": 19,
+      "python_files": 8,
+      "config_files": 2,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\maos2\\docs": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\maos2\\logs": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\maos2\\src": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\maos2\\src\\agents": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\maos2\\src\\agents\\core": {
+      "file_count": 5,
+      "python_files": 5,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\maos2\\src\\agents\\domain": {
+      "file_count": 4,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\maos2\\src\\api": {
+      "file_count": 5,
+      "python_files": 5,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "agents\\maos2\\src\\api\\routes": {
+      "file_count": 11,
+      "python_files": 11,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "agents\\maos2\\src\\database": {
+      "file_count": 6,
+      "python_files": 6,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "agents\\maos2\\src\\orchestrator": {
+      "file_count": 4,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\maos2\\src\\shared": {
+      "file_count": 5,
+      "python_files": 5,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "agents\\maos2\\src\\utils": {
+      "file_count": 9,
+      "python_files": 9,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "agents\\maos2\\tests": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "agents\\tactai": {
+      "file_count": 6,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "agents\\tactai\\data": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\tactai\\llm_prompt_engine": {
+      "file_count": 4,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "agents\\tactai\\static": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "agents\\tactai\\templates": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "ecosystem": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "ecosystem\\assets": {
+      "file_count": 6,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "ecosystem\\finance": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "ecosystem\\network": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 2,
+      "has_init": false,
+      "has_readme": true
+    },
+    "ecosystem\\network\\contracts": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "ecosystem\\network\\docs": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "ecosystem\\network\\docs\\architecture": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "ecosystem\\network\\docs\\business": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "ecosystem\\network\\docs\\development": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "ecosystem\\network\\docs\\security": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "ecosystem\\network\\ignition": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "ecosystem\\network\\ignition\\modules": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "ecosystem\\network\\prototype1": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "ecosystem\\network\\prototype2": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "ecosystem\\network\\scripts": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "ecosystem\\network\\test": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\chat-component": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\chat-component\\src": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\chat-component\\src\\chat-widget": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34": {
+      "file_count": 11,
+      "python_files": 0,
+      "config_files": 4,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\app": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\app\\ai-ecosystems": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\app\\ai-ecosystems\\lab": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\app\\ai-ecosystems\\models": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\app\\ai-ecosystems\\protocols": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\app\\applications": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\app\\applications\\calendar": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\app\\applications\\meteor": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\app\\applications\\oracle": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\app\\blockchain": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\app\\blockchain\\contracts": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\app\\blockchain\\wallets": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\app\\knowledge": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\app\\projects": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\app\\projects\\create": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\app\\projects\\templates": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\app\\quantum": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\app\\research": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\app\\servers": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\app\\system": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\components": {
+      "file_count": 25,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\components\\navigation": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\components\\ui": {
+      "file_count": 52,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\hooks": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\lib": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\public": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard34\\styles": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35": {
+      "file_count": 9,
+      "python_files": 0,
+      "config_files": 5,
+      "has_init": false,
+      "has_readme": true
+    },
+    "frontend\\dashboard35\\src": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app": {
+      "file_count": 10,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app\\ai-ecosystems": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app\\ai-lab": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app\\ai-models": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app\\applications": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app\\ava-assistant": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app\\blockchain": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app\\blockchain-wallets": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app\\core": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app\\header": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app\\knowledge": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app\\meteor-editor": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app\\model-quantization": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app\\oracle-cli": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app\\overview": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app\\projects": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app\\projects-create": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app\\projects-templates": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app\\protocols": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app\\quantum": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app\\research": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app\\servers": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app\\sidebar": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app\\smart-contracts": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app\\system": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "frontend\\dashboard35\\src\\app\\temporal-calendar": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "library": {
+      "file_count": 4,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "library\\datasets": {
+      "file_count": 4,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "library\\datasets\\ready": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\cybertron": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "projects\\cybertron\\src": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\cybertron\\src\\app": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\cybertron\\src\\app\\components": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\cybertron\\src\\app\\components\\cybertron-flow": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\cybertron\\src\\app\\components\\node-settings": {
+      "file_count": 10,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\cybertron\\src\\app\\components\\test-dashboard": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\cybertron\\src\\app\\node-types": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\cybertron\\src\\app\\services": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide": {
+      "file_count": 12,
+      "python_files": 0,
+      "config_files": 3,
+      "has_init": false,
+      "has_readme": true
+    },
+    "projects\\meteor-ide\\contracts": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\docs": {
+      "file_count": 7,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\docs\\guides": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\ignition": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\ignition\\modules": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\libraries": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\meteor-ide-angular": {
+      "file_count": 11,
+      "python_files": 0,
+      "config_files": 5,
+      "has_init": false,
+      "has_readme": true
+    },
+    "projects\\meteor-ide\\meteor-ide-angular\\services": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\meteor-ide-angular\\services\\mellum-service": {
+      "file_count": 3,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\meteor-ide-angular\\src": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\meteor-ide-angular\\src\\app": {
+      "file_count": 10,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\meteor-ide-angular\\src\\app\\components": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\meteor-ide-angular\\src\\app\\components\\ai-assistant": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\meteor-ide-angular\\src\\app\\components\\code-editor": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\meteor-ide-angular\\src\\app\\components\\compilation-output": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\meteor-ide-angular\\src\\app\\components\\file-explorer": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\meteor-ide-angular\\src\\app\\components\\footer": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\meteor-ide-angular\\src\\app\\components\\header": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\meteor-ide-angular\\src\\app\\components\\landing-page": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\meteor-ide-angular\\src\\app\\services": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\meteor-ide-angular\\src\\environments": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\meteor-ide-angular\\src\\styles": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\raegen-ai": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "projects\\meteor-ide\\rust": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\rust\\src": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\rust\\src\\common": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\rust\\src\\ethereum": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\rust\\src\\solana": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\rust\\src\\utils": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\scripts": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\test": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-ide\\tests": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-mde": {
+      "file_count": 17,
+      "python_files": 0,
+      "config_files": 4,
+      "has_init": false,
+      "has_readme": true
+    },
+    "projects\\meteor-mde\\backend": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 2,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-mde\\backend\\src": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-mde\\backend\\src\\controllers": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-mde\\backend\\src\\middleware": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-mde\\backend\\src\\models": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-mde\\backend\\src\\routes": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-mde\\backend\\src\\services": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-mde\\config": {
+      "file_count": 2,
+      "python_files": 1,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-mde\\src": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-mde\\src\\components": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-mde\\src\\components\\Editor": {
+      "file_count": 8,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-mde\\src\\components\\Layout": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-mde\\src\\components\\SourceControl": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-mde\\src\\components\\UI": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-mde\\src\\contexts": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-mde\\src\\data": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-mde\\src\\hooks": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-mde\\src\\lib": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-mde\\src\\services": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-mde\\src\\store": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\meteor-mde\\src\\types": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\oracle-ai-pipeline": {
+      "file_count": 3,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "projects\\simulation-manager": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 2,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\simulation-manager\\src": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\simulation-manager\\_simulationns": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\simulation-manager\\_simulationns\\input-unit": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\simulation-manager\\_simulationns\\input-unit\\docs": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "projects\\simulation-manager\\_simulationns\\input-unit\\tests": {
+      "file_count": 5,
+      "python_files": 5,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "projects\\simulation-manager\\_simulationns\\quantum": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\temporal-calendar": {
+      "file_count": 3,
+      "python_files": 1,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": true
+    },
+    "projects\\temporal-calendar\\cli": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\temporal-calendar\\utils": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\ultracore-virtualization": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "projects\\ultracore-virtualization\\charts": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 2,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\ultracore-virtualization\\charts\\templates": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\ultracore-virtualization\\containers": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\ultracore-virtualization\\core": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\ultracore-virtualization\\core\\phantomd": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\ultracore-virtualization\\host": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\ultracore-virtualization\\host\\config": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\ultracore-virtualization\\monitor": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\ultracore-virtualization\\monitor\\grafana": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\ultracore-virtualization\\monitor\\grafana\\provisioning": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\ultracore-virtualization\\monitor\\grafana\\provisioning\\dashboards": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\ultracore-virtualization\\scripts": {
+      "file_count": 7,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\ultracore-virtualization\\security": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\ultracore-virtualization\\templates": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 2,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\ultracore-virtualization\\ultra-ui": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\ultracore-virtualization\\ultra-ui\\backend": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\ultracore-virtualization\\ultra-ui\\components": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "projects\\ultracore-virtualization\\ultractl": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\cookbooks": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\cookbooks\\notebooks": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\cookbooks\\notebooks\\modeling": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\cookbooks\\notebooks\\modeltraining": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\cookbooks\\python": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\cookbooks\\python\\langchain": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\cookbooks\\python\\llamaindex": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\cookbooks\\python\\llamaindex\\data": {
+      "file_count": 20,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\cookbooks\\python\\mistralai": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\cookbooks\\python\\openai": {
+      "file_count": 6,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\cookbooks\\python\\openai\\data": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\cookbooks\\python\\openai\\data\\hotel_invoices": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\cookbooks\\python\\openai\\data\\hotel_invoices\\receipts_2019_de_hotel": {
+      "file_count": 31,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\cookbooks\\python\\openai\\images": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\environments": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\head_1\\environments\\__docs": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\environments\\___files": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\charts": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\docs": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\head_1\\experiments\\terminal_1": {
+      "file_count": 3,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\automations": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\automations\\scripts": {
+      "file_count": 10,
+      "python_files": 10,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\automations\\teams": {
+      "file_count": 10,
+      "python_files": 9,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": true
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn": {
+      "file_count": 13,
+      "python_files": 0,
+      "config_files": 3,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\1_memory-core": {
+      "file_count": 7,
+      "python_files": 0,
+      "config_files": 2,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\2_perception-layer": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\2_perception-layer\\oracles": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\2_perception-layer\\triggers": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 2,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\3_action-layer": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 2,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\3_action-layer\\actuators": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\4_boot-task": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 2,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\5_treasury": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 3,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\5_treasury\\income-strategies": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\5_treasury\\utilities": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\6_evolver": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 2,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\6_evolver\\decision-engine": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\6_evolver\\upgrades": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\7_interfaces": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\7_interfaces\\api": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\7_interfaces\\web-dashboard": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\8_utilities": {
+      "file_count": 6,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\8_utilities\\crypto": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\8_utilities\\mock_abis": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 2,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\9_tests": {
+      "file_count": 6,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\asecn-solidity": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\asecn-solidity\\contracts": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\asecn-solidity\\contracts\\Core": {
+      "file_count": 7,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\asecn-solidity\\contracts\\interfaces": {
+      "file_count": 6,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\asecn-solidity\\contracts\\utils": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\asecn-solidity\\scripts": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\asecn-solidity\\test": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\control": {
+      "file_count": 5,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\control\\ai_integrations": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\frontend": {
+      "file_count": 10,
+      "python_files": 0,
+      "config_files": 3,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\frontend\\public": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\frontend\\src": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\frontend\\src\\app": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\frontend\\src\\app\\about": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\frontend\\src\\app\\auction": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\frontend\\src\\components": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\frontend\\src\\components\\action-layer": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\frontend\\src\\components\\charts": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\frontend\\src\\components\\evolver": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\frontend\\src\\components\\layout": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\frontend\\src\\components\\memory-core": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\frontend\\src\\components\\perception-layer": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\frontend\\src\\components\\treasury": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\frontend\\src\\components\\ui": {
+      "file_count": 10,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\asecn\\frontend\\src\\lib": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\AVA-prototype-copy": {
+      "file_count": 15,
+      "python_files": 0,
+      "config_files": 5,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\AVA-prototype-copy\\action-layer": {
+      "file_count": 4,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\AVA-prototype-copy\\ava-core": {
+      "file_count": 8,
+      "python_files": 4,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\AVA-prototype-copy\\data": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\AVA-prototype-copy\\data\\redis": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\AVA-prototype-copy\\evolver": {
+      "file_count": 4,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\AVA-prototype-copy\\memory-core": {
+      "file_count": 5,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\AVA-prototype-copy\\monitoring": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\AVA-prototype-copy\\nginx": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\AVA-prototype-copy\\nginx\\certs": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\AVA-prototype-copy\\perception-layer": {
+      "file_count": 4,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\AVA-prototype-copy\\src": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_1\\__files\\AVA-prototype-copy\\vault": {
+      "file_count": 4,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_1\\environment_2": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_2": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\experiments\\terminal_2\\environment_0": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\adaptive_numeric_logic": {
+      "file_count": 12,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\head_1\\frameworks\\adaptive_numeric_logic\\ai_core": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\adaptive_numeric_logic\\anf": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\adaptive_numeric_logic\\anf\\core": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\adaptive_numeric_logic\\computational_core": {
+      "file_count": 14,
+      "python_files": 14,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\adaptive_numeric_logic\\computational_core\\tests": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\adaptive_numeric_logic\\control_orchestration": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\adaptive_numeric_logic\\core": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\adaptive_numeric_logic\\data_management": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\adaptive_numeric_logic\\docs": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\adaptive_numeric_logic\\examples": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\adaptive_numeric_logic\\intelligent_optimization": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\adaptive_numeric_logic\\scripts": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\adaptive_numeric_logic\\task_management": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\adaptive_numeric_logic\\tests": {
+      "file_count": 11,
+      "python_files": 11,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\adaptive_numeric_logic\\ui_task_definition": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\adaptive_numeric_logic\\ui_task_definition\\task_management": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\cognition_framework": {
+      "file_count": 6,
+      "python_files": 6,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\emotional_dimensionality": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\head_1\\frameworks\\emotional_dimensionality\\__docs": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\emotional_dimensionality\\___files": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\ethics": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\head_1\\frameworks\\ethics\\__docs": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\ethics\\___files": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\laws_of_robotics": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\head_1\\frameworks\\laws_of_robotics\\__docs": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\laws_of_robotics\\___files": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\probabalistic_uncertainty_principle": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\head_1\\frameworks\\probabalistic_uncertainty_principle\\_setup": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\probabalistic_uncertainty_principle\\__docs": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\probabalistic_uncertainty_principle\\___files": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\probabalistic_uncertainty_principle\\___files\\core": {
+      "file_count": 6,
+      "python_files": 6,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\probabalistic_uncertainty_principle\\___files\\examples": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\probabalistic_uncertainty_principle\\___files\\integrations": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\self_awareness": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\head_1\\frameworks\\self_awareness\\__docs": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\self_awareness\\___files": {
+      "file_count": 7,
+      "python_files": 4,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\social_dimensionality": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\head_1\\frameworks\\social_dimensionality\\__docs": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\social_dimensionality\\___files": {
+      "file_count": 4,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\temporal_locationing": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\head_1\\frameworks\\temporal_locationing\\__docs": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\temporal_locationing\\___files": {
+      "file_count": 4,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "research\\head_1\\frameworks\\_system": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\monitoring": {
+      "file_count": 5,
+      "python_files": 1,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\monitoring\\grafana_dashboard": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\monitoring\\grafana_dashboard\\dashboards": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\monitoring\\grafana_dashboard\\provisioning": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\monitoring\\grafana_dashboard\\provisioning\\dashboards": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\monitoring\\prometheus": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\monitoring\\prometheus_node_scrapper": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_1\\notebooks": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_2": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_2\\core_logic": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_2\\memory_chain": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_2\\memory_chain\\memory_chain": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_2\\memory_chain\\thought _chain": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_2\\modules": {
+      "file_count": 2,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\head_2\\simulation_environment": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\journal": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\logs": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 2,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\models": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\models\\adamprotocol": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\models\\adamprotocol\\AVA-prototype": {
+      "file_count": 15,
+      "python_files": 0,
+      "config_files": 5,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\models\\adamprotocol\\AVA-prototype\\action-layer": {
+      "file_count": 4,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\models\\adamprotocol\\AVA-prototype\\ava-core": {
+      "file_count": 8,
+      "python_files": 4,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\models\\adamprotocol\\AVA-prototype\\data": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\models\\adamprotocol\\AVA-prototype\\data\\redis": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\models\\adamprotocol\\AVA-prototype\\evolver": {
+      "file_count": 4,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\models\\adamprotocol\\AVA-prototype\\memory-core": {
+      "file_count": 5,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\models\\adamprotocol\\AVA-prototype\\monitoring": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\models\\adamprotocol\\AVA-prototype\\nginx": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\models\\adamprotocol\\AVA-prototype\\nginx\\certs": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\models\\adamprotocol\\AVA-prototype\\perception-layer": {
+      "file_count": 4,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\models\\adamprotocol\\AVA-prototype\\src": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\models\\adamprotocol\\AVA-prototype\\vault": {
+      "file_count": 4,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\models\\augmented-llm": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\models\\augmented-llm\\prototype0": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\models\\augmented-llm\\prototype0\\app": {
+      "file_count": 6,
+      "python_files": 6,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "research\\models\\augmented-llm\\prototype0\\data": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\models\\augmented-llm\\prototype0\\models": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\models\\augmented-llm\\prototype0\\server": {
+      "file_count": 4,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "research\\models\\augmented-llm\\prototype0\\tests": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\models\\augmented-llm\\prototype0\\vector_store": {
+      "file_count": 4,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "research\\models\\basic_lifeform": {
+      "file_count": 4,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\models\\cognitive_simulation": {
+      "file_count": 9,
+      "python_files": 3,
+      "config_files": 2,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\models\\GPTlab": {
+      "file_count": 2,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\models\\GPTlab\\evaluation": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\models\\GPTlab\\evaluation\\completed": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\models\\GPTlab\\pretrained": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\state-mgt": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "research\\state-mgt\\neurologic": {
+      "file_count": 7,
+      "python_files": 6,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "research\\state-mgt\\symbolic": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace": {
+      "file_count": 10,
+      "python_files": 8,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "worxpace\\functions": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "worxpace\\functions\\admin": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "worxpace\\functions\\admin\\config": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 3,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\functions\\admin\\security": {
+      "file_count": 10,
+      "python_files": 8,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": true
+    },
+    "worxpace\\functions\\applications": {
+      "file_count": 2,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\functions\\blockchain": {
+      "file_count": 2,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\functions\\calling": {
+      "file_count": 2,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\functions\\parsing": {
+      "file_count": 2,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\functions\\tooling": {
+      "file_count": 2,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\phantom-desktop-ui": {
+      "file_count": 4,
+      "python_files": 1,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": true
+    },
+    "worxpace\\phantom-desktop-ui\\src": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\phantom-desktop-ui\\src\\app": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\phantom-desktop-ui\\src\\app\\services": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow": {
+      "file_count": 13,
+      "python_files": 1,
+      "config_files": 2,
+      "has_init": false,
+      "has_readme": true
+    },
+    "worxpace\\ragflow\\agent": {
+      "file_count": 5,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": true
+    },
+    "worxpace\\ragflow\\agent\\component": {
+      "file_count": 38,
+      "python_files": 38,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\agent\\templates": {
+      "file_count": 11,
+      "python_files": 0,
+      "config_files": 11,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\agent\\test": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\agent\\test\\dsl_examples": {
+      "file_count": 14,
+      "python_files": 0,
+      "config_files": 14,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\agentic_reasoning": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\api": {
+      "file_count": 6,
+      "python_files": 6,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\api\\apps": {
+      "file_count": 16,
+      "python_files": 16,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\api\\apps\\auth": {
+      "file_count": 5,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": true
+    },
+    "worxpace\\ragflow\\api\\apps\\sdk": {
+      "file_count": 6,
+      "python_files": 6,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\api\\db": {
+      "file_count": 6,
+      "python_files": 6,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\api\\db\\services": {
+      "file_count": 15,
+      "python_files": 15,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\api\\utils": {
+      "file_count": 8,
+      "python_files": 8,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\conf": {
+      "file_count": 7,
+      "python_files": 0,
+      "config_files": 5,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\deepdoc": {
+      "file_count": 3,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": true
+    },
+    "worxpace\\ragflow\\deepdoc\\parser": {
+      "file_count": 11,
+      "python_files": 11,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\deepdoc\\parser\\resume": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\deepdoc\\parser\\resume\\entities": {
+      "file_count": 6,
+      "python_files": 6,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\deepdoc\\parser\\resume\\entities\\res": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 4,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\deepdoc\\vision": {
+      "file_count": 10,
+      "python_files": 10,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\docker": {
+      "file_count": 12,
+      "python_files": 0,
+      "config_files": 7,
+      "has_init": false,
+      "has_readme": true
+    },
+    "worxpace\\ragflow\\docker\\nginx": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\docs": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\docs\\contribution": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\docs\\develop": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\docs\\develop\\mcp": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\docs\\guides": {
+      "file_count": 6,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\docs\\guides\\agent": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\docs\\guides\\agent\\agent_component_reference": {
+      "file_count": 15,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\docs\\guides\\chat": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\docs\\guides\\chat\\best_practices": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\docs\\guides\\dataset": {
+      "file_count": 10,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\docs\\guides\\dataset\\best_practices": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\docs\\guides\\models": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\docs\\guides\\team": {
+      "file_count": 7,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\docs\\references": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\example": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\example\\http": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\example\\sdk": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\graphrag": {
+      "file_count": 6,
+      "python_files": 6,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\graphrag\\general": {
+      "file_count": 12,
+      "python_files": 12,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\graphrag\\light": {
+      "file_count": 4,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\helm": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 2,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\helm\\templates": {
+      "file_count": 12,
+      "python_files": 0,
+      "config_files": 11,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\helm\\templates\\tests": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\intergrations": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\intergrations\\chatgpt-on-wechat": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\intergrations\\chatgpt-on-wechat\\plugins": {
+      "file_count": 5,
+      "python_files": 2,
+      "config_files": 1,
+      "has_init": true,
+      "has_readme": true
+    },
+    "worxpace\\ragflow\\intergrations\\extension_chrome": {
+      "file_count": 8,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": true
+    },
+    "worxpace\\ragflow\\intergrations\\extension_chrome\\assets": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\intergrations\\extension_chrome\\icons": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\intergrations\\extension_chrome\\styles": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\mcp": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\mcp\\client": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\mcp\\server": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\plugin": {
+      "file_count": 6,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": true
+    },
+    "worxpace\\ragflow\\plugin\\embedded_plugins": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\plugin\\embedded_plugins\\llm_tools": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\rag": {
+      "file_count": 5,
+      "python_files": 5,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\rag\\app": {
+      "file_count": 15,
+      "python_files": 15,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\rag\\llm": {
+      "file_count": 7,
+      "python_files": 7,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\rag\\nlp": {
+      "file_count": 7,
+      "python_files": 7,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\rag\\res": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 2,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\rag\\svr": {
+      "file_count": 4,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\rag\\utils": {
+      "file_count": 13,
+      "python_files": 13,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sandbox": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 2,
+      "has_init": false,
+      "has_readme": true
+    },
+    "worxpace\\ragflow\\sandbox\\asserts": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sandbox\\executor_manager": {
+      "file_count": 5,
+      "python_files": 2,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sandbox\\executor_manager\\api": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sandbox\\executor_manager\\core": {
+      "file_count": 4,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sandbox\\executor_manager\\models": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sandbox\\executor_manager\\services": {
+      "file_count": 4,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sandbox\\executor_manager\\utils": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sandbox\\sandbox_base_image": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sandbox\\sandbox_base_image\\nodejs": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sandbox\\sandbox_base_image\\python": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sandbox\\scripts": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sandbox\\tests": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sdk": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sdk\\python": {
+      "file_count": 4,
+      "python_files": 1,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": true
+    },
+    "worxpace\\ragflow\\sdk\\python\\ragflow_sdk": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sdk\\python\\ragflow_sdk\\modules": {
+      "file_count": 8,
+      "python_files": 8,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sdk\\python\\test": {
+      "file_count": 1,
+      "python_files": 1,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sdk\\python\\test\\libs": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sdk\\python\\test\\libs\\utils": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sdk\\python\\test\\test_frontend_api": {
+      "file_count": 4,
+      "python_files": 4,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sdk\\python\\test\\test_http_api": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sdk\\python\\test\\test_http_api\\test_chat_assistant_management": {
+      "file_count": 5,
+      "python_files": 5,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sdk\\python\\test\\test_http_api\\test_chunk_management_within_dataset": {
+      "file_count": 6,
+      "python_files": 6,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sdk\\python\\test\\test_http_api\\test_dataset_mangement": {
+      "file_count": 5,
+      "python_files": 5,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sdk\\python\\test\\test_http_api\\test_file_management_within_dataset": {
+      "file_count": 8,
+      "python_files": 8,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sdk\\python\\test\\test_http_api\\test_session_management": {
+      "file_count": 5,
+      "python_files": 5,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sdk\\python\\test\\test_sdk_api": {
+      "file_count": 8,
+      "python_files": 8,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\sdk\\python\\test\\test_sdk_api\\test_data": {
+      "file_count": 11,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\test": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\test\\libs": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\test\\testcases": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\test\\testcases\\test_http_api": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\test\\testcases\\test_http_api\\test_chat_assistant_management": {
+      "file_count": 5,
+      "python_files": 5,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\test\\testcases\\test_http_api\\test_chunk_management_within_dataset": {
+      "file_count": 6,
+      "python_files": 6,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\test\\testcases\\test_http_api\\test_dataset_mangement": {
+      "file_count": 5,
+      "python_files": 5,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\test\\testcases\\test_http_api\\test_file_management_within_dataset": {
+      "file_count": 8,
+      "python_files": 8,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\test\\testcases\\test_http_api\\test_session_management": {
+      "file_count": 5,
+      "python_files": 5,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\test\\testcases\\test_sdk_api": {
+      "file_count": 2,
+      "python_files": 2,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\test\\testcases\\test_sdk_api\\test_dataset_mangement": {
+      "file_count": 5,
+      "python_files": 5,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\test\\utils": {
+      "file_count": 3,
+      "python_files": 3,
+      "config_files": 0,
+      "has_init": true,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web": {
+      "file_count": 14,
+      "python_files": 0,
+      "config_files": 2,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\public": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\public\\pdfjs-dist": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src": {
+      "file_count": 6,
+      "python_files": 0,
+      "config_files": 1,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\assets": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\assets\\icon": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\assets\\inter": {
+      "file_count": 38,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\assets\\svg": {
+      "file_count": 77,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\assets\\svg\\chunk-method": {
+      "file_count": 33,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\assets\\svg\\file-icon": {
+      "file_count": 40,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\assets\\svg\\llm": {
+      "file_count": 51,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components": {
+      "file_count": 44,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\api-service": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\api-service\\chat-api-key-modal": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\api-service\\chat-overview-modal": {
+      "file_count": 6,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\api-service\\embed-modal": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\chunk-method-dialog": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\chunk-method-modal": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\edit-tag": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\file-icon": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\file-upload-dialog": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\file-upload-modal": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\highlight-markdown": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\hooks": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\image": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\indented-tree": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\line-chart": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\list-filter-bar": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\llm-select": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\llm-setting-items": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\message-input": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\message-item": {
+      "file_count": 6,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\operate-dropdown": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\originui": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\parse-configuration": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\pdf-drawer": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\pdf-previewer": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\prompt-editor": {
+      "file_count": 7,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\rename-dialog": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\rename-modal": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\retrieval-documents": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\similarity-slider": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\components\\ui": {
+      "file_count": 47,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\constants": {
+      "file_count": 8,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\hooks": {
+      "file_count": 22,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\hooks\\logic-hooks": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\icons": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\interfaces": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\interfaces\\database": {
+      "file_count": 11,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\interfaces\\request": {
+      "file_count": 8,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\layouts": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\layouts\\components": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\layouts\\components\\header": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\layouts\\components\\right-toolbar": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\layouts\\components\\user": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\less": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\lib": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\locales": {
+      "file_count": 11,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\add-knowledge": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\add-knowledge\\components": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\add-knowledge\\components\\knowledge-chunk": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\add-knowledge\\components\\knowledge-chunk\\components": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\add-knowledge\\components\\knowledge-chunk\\components\\chunk-card": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\add-knowledge\\components\\knowledge-chunk\\components\\chunk-creating-modal": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\add-knowledge\\components\\knowledge-chunk\\components\\chunk-toolbar": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\add-knowledge\\components\\knowledge-chunk\\components\\document-preview": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\add-knowledge\\components\\knowledge-dataset": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\add-knowledge\\components\\knowledge-file": {
+      "file_count": 8,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\add-knowledge\\components\\knowledge-file\\parsing-action-cell": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\add-knowledge\\components\\knowledge-file\\parsing-status-cell": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\add-knowledge\\components\\knowledge-file\\rename-modal": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\add-knowledge\\components\\knowledge-file\\set-meta-modal": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\add-knowledge\\components\\knowledge-graph": {
+      "file_count": 6,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\add-knowledge\\components\\knowledge-setting": {
+      "file_count": 8,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\add-knowledge\\components\\knowledge-setting\\configuration": {
+      "file_count": 17,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\add-knowledge\\components\\knowledge-setting\\tag-table": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\add-knowledge\\components\\knowledge-setting\\tag-table\\rename-dialog": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\add-knowledge\\components\\knowledge-sidebar": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\add-knowledge\\components\\knowledge-testing": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\add-knowledge\\components\\knowledge-testing\\testing-control": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\add-knowledge\\components\\knowledge-testing\\testing-result": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent": {
+      "file_count": 12,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\canvas": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\canvas\\context-menu": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\canvas\\edge": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\canvas\\node": {
+      "file_count": 25,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\chat": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\debug-content": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\agent-form": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\akshare-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\answer-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\arxiv-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\baidu-fanyi-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\baidu-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\begin-form": {
+      "file_count": 7,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\bing-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\categorize-form": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\code-form": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\components": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\concentrator-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\crawler-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\deepl-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\duckduckgo-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\email-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\exesql-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\generate-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\github-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\google-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\google-scholar-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\invoke-form": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\iteration-from": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\jin10-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\keyword-extract-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\message-form": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\pubmed-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\qweather-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\relevant-form": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\retrieval-form": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\rewrite-question-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\switch-form": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\template-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\tushare-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\waiting-dialogue-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\wencai-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\wikipedia-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form\\yahoo-finance-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form-sheet": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\form-sheet\\single-debug-drawer": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\hooks": {
+      "file_count": 12,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\run-sheet": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agent\\upload-agent-dialog": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\agents": {
+      "file_count": 8,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\chat": {
+      "file_count": 8,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\chat\\chat-configuration-modal": {
+      "file_count": 6,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\chat\\chat-container": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\chat\\chat-id-modal": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\chat\\markdown-content": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\chat\\share": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\chunk": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\chunk\\chunk-result": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\chunk\\parsed-result": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\chunk\\result-view": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\dataset": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\dataset\\dataset": {
+      "file_count": 18,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\dataset\\setting": {
+      "file_count": 15,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\dataset\\setting\\configuration": {
+      "file_count": 16,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\dataset\\setting\\tag-table": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\dataset\\setting\\tag-table\\rename-dialog": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\dataset\\sidebar": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\dataset\\testing": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\datasets": {
+      "file_count": 8,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\document-viewer": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\document-viewer\\docx": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\document-viewer\\excel": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\document-viewer\\file-error": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\document-viewer\\image": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\document-viewer\\pdf": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\file-manager": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\file-manager\\action-cell": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\file-manager\\connect-to-knowledge-modal": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\file-manager\\folder-create-modal": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\file-manager\\move-file-modal": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\files": {
+      "file_count": 15,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\files\\create-folder-dialog": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow": {
+      "file_count": 15,
+      "python_files": 0,
+      "config_files": 4,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\canvas": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\canvas\\context-menu": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\canvas\\edge": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\canvas\\node": {
+      "file_count": 24,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\chat": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\debug-content": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\flow-drawer": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\flow-drawer\\single-debug-drawer": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\flow-id-modal": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\flow-setting": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\flow-sider": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\akshare-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\answer-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\arxiv-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\baidu-fanyi-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\baidu-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\begin-form": {
+      "file_count": 6,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\bing-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\categorize-form": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\code-form": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\components": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\concentrator-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\crawler-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\deepl-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\duckduckgo-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\email-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\exesql-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\generate-form": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\github-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\google-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\google-scholar-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\invoke-form": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\iteration-from": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\jin10-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\keyword-extract-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\message-form": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\pubmed-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\qweather-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\relevant-form": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\retrieval-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\rewrite-question-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\switch-form": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\template-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\tushare-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\wencai-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\wikipedia-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\form\\yahoo-finance-form": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\header": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\history-version-modal": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\hooks": {
+      "file_count": 10,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\json-upload-modal": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\list": {
+      "file_count": 6,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\list\\flow-card": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\operator-icon": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\flow\\run-drawer": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\home": {
+      "file_count": 8,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\knowledge": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\knowledge\\knowledge-card": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\knowledge\\knowledge-creating-modal": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\login": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\login-next": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\next-chats": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\next-chats\\chat": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\next-chats\\chat\\app-settings": {
+      "file_count": 6,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\next-search": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\next-searches": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\profile-setting": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\profile-setting\\model": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\profile-setting\\plan": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\profile-setting\\profile": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\profile-setting\\prompt": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\profile-setting\\sidebar": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\profile-setting\\team": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\search": {
+      "file_count": 5,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\user-setting": {
+      "file_count": 6,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\user-setting\\components": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\user-setting\\components\\setting-title": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\user-setting\\setting-api": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\user-setting\\setting-locale": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\user-setting\\setting-model": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\user-setting\\setting-model\\api-key-modal": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\user-setting\\setting-model\\azure-openai-modal": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\user-setting\\setting-model\\bedrock-modal": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\user-setting\\setting-model\\fish-audio-modal": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\user-setting\\setting-model\\google-modal": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\user-setting\\setting-model\\hunyuan-modal": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\user-setting\\setting-model\\langfuse": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\user-setting\\setting-model\\ollama-modal": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\user-setting\\setting-model\\spark-modal": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\user-setting\\setting-model\\system-model-setting-modal": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\user-setting\\setting-model\\Tencent-modal": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\user-setting\\setting-model\\volcengine-modal": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\user-setting\\setting-model\\yiyan-modal": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\user-setting\\setting-password": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\user-setting\\setting-profile": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\user-setting\\setting-system": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\user-setting\\setting-team": {
+      "file_count": 6,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\pages\\user-setting\\sidebar": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\services": {
+      "file_count": 6,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\theme": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\utils": {
+      "file_count": 16,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\ragflow\\web\\src\\wrappers": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\worXpace-os": {
+      "file_count": 10,
+      "python_files": 0,
+      "config_files": 4,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\worXpace-os\\src": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\worXpace-os\\src\\apps": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\worXpace-os\\src\\apps\\Editor": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\worXpace-os\\src\\apps\\FileExplorer": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\worXpace-os\\src\\apps\\Terminal": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\worXpace-os\\src\\components": {
+      "file_count": 0,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\worXpace-os\\src\\components\\os": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\worXpace-os\\src\\components\\ui": {
+      "file_count": 2,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\worXpace-os\\src\\store": {
+      "file_count": 4,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\worXpace-os\\src\\types": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "worxpace\\worXpace-os\\src\\utils": {
+      "file_count": 1,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    },
+    "__thoughtprocess": {
+      "file_count": 3,
+      "python_files": 0,
+      "config_files": 0,
+      "has_init": false,
+      "has_readme": false
+    }
+  },
+  "agents": {
+    "crewOS": {
+      "path": "agents\\crewOS",
+      "python_files": 14,
+      "config_files": 3,
+      "has_main": false,
+      "has_config": false,
+      "subdirectories": [
+        "data",
+        "knowledge",
+        "logs",
+        "src",
+        "templates",
+        "tests"
+      ],
+      "last_modified": 1749215248.6812656
+    },
+    "discord_community_bot": {
+      "path": "agents\\discord_community_bot",
+      "python_files": 3,
+      "config_files": 0,
+      "has_main": false,
+      "has_config": false,
+      "subdirectories": [
+        ".github"
+      ],
+      "last_modified": 1749291474.7587793
+    },
+    "lm-intern": {
+      "path": "agents\\lm-intern",
+      "python_files": 75,
+      "config_files": 3,
+      "has_main": false,
+      "has_config": false,
+      "subdirectories": [
+        ".github",
+        "docs",
+        "examples",
+        "lagent",
+        "requirements",
+        "tests"
+      ],
+      "last_modified": 1749215248.7132206
+    },
+    "maos2": {
+      "path": "agents\\maos2",
+      "python_files": 62,
+      "config_files": 2,
+      "has_main": true,
+      "has_config": false,
+      "subdirectories": [
+        ".artifacts",
+        "docs",
+        "logs",
+        "src",
+        "tests"
+      ],
+      "last_modified": 1749371298.8294582
+    },
+    "tactai": {
+      "path": "agents\\tactai",
+      "python_files": 6,
+      "config_files": 1,
+      "has_main": true,
+      "has_config": false,
+      "subdirectories": [
+        "data",
+        "llm_prompt_engine",
+        "static",
+        "templates",
+        "__pycache__"
+      ],
+      "last_modified": 1749376833.4705315
+    }
+  },
+  "key_files": {
+    "requirements": [
+      "requirements.txt",
+      "requirements.txt"
+    ],
+    "config": [],
+    "documentation": [
+      "README.md",
+      "WHITEPAPER.md"
+    ],
+    "setup": [
+      "setup.py",
+      "package.json"
+    ],
+    "startup": [
+      "startup.py"
+    ]
+  }
+}

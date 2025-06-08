@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "generated_at": "2025-06-08T08:43:15.539395",
+    "workspace_root": "W:\\artifactvirtual",
+    "total_files": 3696,
+    "total_directories": 961
+  },
+  "agents": {
+    "crewOS": {
+      "path": "agents\\crewOS",
+      "python_files": 14,
+      "config_files": 3,
+      "has_main": false,
+      "has_config": false,
+      "subdirectories": [
+        "data",
+        "knowledge",
+        "logs",
+        "src",
+        "templates",
+        "tests"
+      ],
+      "last_modified": 1749215248.6812656
+    },
+    "discord_community_bot": {
+      "path": "agents\\discord_community_bot",
+      "python_files": 3,
+      "config_files": 0,
+      "has_main": false,
+      "has_config": false,
+      "subdirectories": [
+        ".github"
+      ],
+      "last_modified": 1749291474.7587793
+    },
+    "lm-intern": {
+      "path": "agents\\lm-intern",
+      "python_files": 75,
+      "config_files": 3,
+      "has_main": false,
+      "has_config": false,
+      "subdirectories": [
+        ".github",
+        "docs",
+        "examples",
+        "lagent",
+        "requirements",
+        "tests"
+      ],
+      "last_modified": 1749215248.7132206
+    },
+    "maos2": {
+      "path": "agents\\maos2",
+      "python_files": 62,
+      "config_files": 2,
+      "has_main": true,
+      "has_config": false,
+      "subdirectories": [
+        ".artifacts",
+        "docs",
+        "logs",
+        "src",
+        "tests"
+      ],
+      "last_modified": 1749371298.8294582
+    },
+    "tactai": {
+      "path": "agents\\tactai",
+      "python_files": 6,
+      "config_files": 1,
+      "has_main": true,
+      "has_config": false,
+      "subdirectories": [
+        "data",
+        "llm_prompt_engine",
+        "static",
+        "templates",
+        "__pycache__"
+      ],
+      "last_modified": 1749376833.4705315
+    }
+  },
+  "file_types": {
+    "": 90,
+    ".txt": 54,
+    ".py": 1040,
+    ".md": 334,
+    ".yml": 39,
+    ".json": 150,
+    ".html": 65,
+    ".sh": 30,
+    ".png": 27,
+    ".js": 96,
+    ".ipynb": 23,
+    ".ps1": 10,
+    ".toml": 16,
+    ".yaml": 33,
+    ".in": 3,
+    ".cfg": 2,
+    ".lock": 7,
+    ".example": 3,
+    ".db": 2,
+    ".typed": 1,
+    ".exe": 3,
+    ".css": 16,
+    ".ffpreset": 5,
+    ".ts": 365,
+    ".bat": 5,
+    ".conf": 8,
+    ".rst": 8,
+    ".log": 3,
+    ".backup": 1,
+    ".sol": 20,
+    ".prototype": 2,
+    ".test": 1,
+    ".scss": 19,
+    ".mjs": 4,
+    ".tsx": 735,
+    ".svg": 215,
+    ".jpg": 4,
+    ".rs": 24,
+    ".dockerfile": 4,
+    ".go": 2,
+    ".pdf": 33,
+    ".env": 1,
+    ".ico": 1,
+    ".light": 12,
+    ".rdb": 2,
+    ".pem": 6,
+    ".c": 4,
+    ".h": 1,
+    ".sql": 2,
+    ".pt": 1,
+    ".sqlite": 1,
+    ".deps": 1,
+    ".oc9": 1,
+    ".template": 1,
+    ".mdx": 24,
+    ".tpl": 1,
+    ".docx": 1,
+    ".ppt": 1,
+    ".xlsx": 1,
+    ".less": 93,
+    ".woff2": 38,
+    ".jsx": 1
+  },
+  "key_files": {
+    "requirements": [
+      "requirements.txt",
+      "requirements.txt"
+    ],
+    "config": [],
+    "documentation": [
+      "README.md",
+      "WHITEPAPER.md"
+    ],
+    "setup": [
+      "setup.py",
+      "package.json"
+    ],
+    "startup": [
+      "startup.py"
+    ]
+  },
+  "capabilities": [
+    "Web Frontend Development",
+    "Python Backend Development",
+    "Node.js/JavaScript Development",
+    "Python Dependency Management",
+    "AI Agent System (5 agents)"
+  ],
+  "development_patterns": {
+    "has_testing": true,
+    "has_documentation": true,
+    "has_ci_cd": false,
+    "modular_structure": true
+  }
+}
