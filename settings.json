@@ -1,0 +1,13 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\alish\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "files.watcherExclude": {
+        "**/.artifacts/**": true,
+        "**/node_modules/**": true,
+        "**/__pycache__/**": true,
+        "**/venv/**": true,
+        "**/env/**": true
+    },
+    "task.allowAutomaticTasks": "on",
+    "files.autoSave": "onFocusChange",
+    "python.analysis.autoImportCompletions": true
+}

@@ -1,0 +1,60 @@
+{
+  // VS Code Workspace Configuration - Auto-generated
+  "folders": [
+  {
+    "name": "ARTIFACT:0 [root]",
+    "path": "."
+  },
+  {
+    "name": "ARTIFACT:1 crewOS",
+    "path": "./agents/crewOS"
+  },
+  {
+    "name": "ARTIFACT:2 discord_community_bot",
+    "path": "./agents/discord_community_bot"
+  },
+  {
+    "name": "ARTIFACT:3 lm-intern",
+    "path": "./agents/lm-intern"
+  },
+  {
+    "name": "ARTIFACT:4 maos2",
+    "path": "./agents/maos2"
+  },
+  {
+    "name": "ARTIFACT:5 tactai",
+    "path": "./agents/tactai"
+  },
+  {
+    "name": "docs [A6]",
+    "path": "./administration/docs"
+  },
+  {
+    "name": "frontend [A7]",
+    "path": "./frontend"
+  },
+  {
+    "name": "ecosystem [A8]",
+    "path": "./ecosystem"
+  },
+  {
+    "name": "research [A9]",
+    "path": "./research"
+  },
+  {
+    "name": "projects [A10]",
+    "path": "./projects"
+  },
+  {
+    "name": "library [A11]",
+    "path": "./library"
+  },
+  {
+    "name": "worxpace [A12]",
+    "path": "./worxpace"
+  }
+],
+  "settings": {},
+  "extensions": {},
+  "tasks": {}
+}
