@@ -58,7 +58,6 @@ This setup creates a "living workspace" that automatically understands, organize
 1. **Open Workspace**: Simply open the workspace in VS Code - automation runs automatically
 2. **Monitor Progress**: Check the terminal output to see each script's execution status
 3. **Use Generated Files**: Access `llm_context.md` for AI assistance and `workspace_index.json` for project navigation
-4. **Explore Folders**: Navigate through the 13 auto-configured workspace folders in the Explorer panel
-5. **AI Analysis**: Use the artifact visualizer for deeper project insights and multi-LLM analysis
+4. **AI Analysis**: Use the artifact visualizer for deeper project insights and multi-LLM analysis
 
 The system is fully operational and requires no manual intervention after initial setup.
